@@ -1,0 +1,10 @@
+ul.filters {
+    display: inline-block;
+    padding: 0;
+    list-style: none;
+}
+
+.filters > * {
+    display: inline-block;
+    border: 1px solid black;
+}

@@ -1,0 +1,5 @@
+textarea.todo-string {
+    height: 64em;
+    width: 16em;
+    resize: none;
+}

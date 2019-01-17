@@ -1,0 +1,38 @@
+.black {
+    border-left: 0.25rem solid black;
+}
+
+.red {
+    border-left: 0.25rem solid red;
+}
+
+.blue {
+    border-left: 0.25rem solid blue;
+}
+
+.green {
+    border-left: 0.25rem solid green;
+}
+
+.yellow {
+    border-left: 0.25rem solid yellow;
+}
+
+.purple {
+    border-left: 0.25rem solid purple;
+}
+
+.orange {
+    border-left: 0.25rem solid orange;
+}
+
+ol.todo-list {
+    list-style: none;
+}
+
+.todo-list > * {
+    margin: 1px;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+}
